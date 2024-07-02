@@ -1,0 +1,139 @@
+{
+    "jobTitles": [
+        "Full Stack Web Developer"
+    ],
+    "personalInfo": {
+        "firstName": "Zakariya",
+        "lastName": "Salie",
+        "age": 24,
+        "email": "zakariya.salie07@gmail.com",
+        "mobile": "(+27) 65 813 1021",
+        "social media": {
+            "facebook": "https://www.facebook.com/",
+            "instagram": "https://www.instagram.com/",
+            "github": "https://github.com/",
+            "linkedin": "https://www.linkedin.com"
+        },
+        "occupation": "intern",
+        "interests": [
+            "reading",
+            "gaming",
+            "hiking"
+        ],
+        "location": {
+            "area": "Ottery, Cape Town",
+            "country": "South Africa"
+        },
+        "languages": [
+            "English"
+        ]
+    },
+    "aboutMe": [
+        {
+            "name": "About",
+            "text": "As a passionate enthusiast of cars and games, a sports aficionado, and a dedicated computer enthusiast, I find joy in blending my diverse interests into captivating web designs. With a fervent love for creation, I channel my energy into crafting immersive digital experiences that seamlessly integrate my passions. From sleek automotive-inspired layouts to dynamic gaming interfaces, each project reflects my commitment to innovation and attention to detail. Explore my portfolio to witness the fusion of my interests and my dedication to crafting engaging online environments."
+        },
+        {
+            "name": "Objectives",
+            "text": "In the dynamic realm of web development, my objective is to leverage my technical proficiency and creative acumen to craft innovative digital solutions that exceed client expectations and drive business growth. With a strong foundation in front-end and back-end technologies, including proficiency in languages such as HTML, CSS, JavaScript, and frameworks like React and Node.js, I am committed to delivering robust, user-centric websites and applications. I strive to stay abreast of emerging trends and best practices in web development, ensuring my work remains at the forefront of technological advancements. My goal is to not only meet project objectives but to also contribute to a culture of continuous improvement and excellence within the industry."
+        }
+    ],
+    "records": {
+        "education": [
+            {
+                "certificate": "Matric",
+                "school": "The Oracle Academy",
+                "year": 2019
+            }
+        ],
+        "work experience": [
+            {
+                "company": "RSG Safety Glass Products",
+                "title": "Customer Service",
+                "yearStarted": 2019,
+                "yearEnded": 2020,
+                "description": "Liaising with customers on order progress, compiling job cards for manufacturing of jobs, daily analysis of Work-in-progress production scheduling, planning production schedule with factory manager to ensure that lead times are achieved"
+            },
+            {
+                "company": "Miron Frameless Glass Designs",
+                "title": "Junior Estimator",
+                "yearStarted": 2020,
+                "yearEnded": 2021,
+                "description": "Finding out the client requirements, researching materials, equipment and labour costs, gathering quotes from sub contractors and suppliers, assessing levels of risk on projects, analyzing company data, exchange rates and prices, preparing and submitting quotes for work to be done, compiling and filing project information, compiling daily information for job costing, preparing project progress reports for management"  
+            },
+            {
+                "company": "Ticktin Timbers",
+                "title": "Administrator/Receptionist",
+                "yearStarted": 2021,
+                "yearEnded": 2023,
+                "description": "Answering incoming calls and redirecting to the respective person, taking messages where the respective person is unable to take the call, receive payments from customers, capturing of all payment (cash and credit card) on Pastel Accounting, reconciling cash and credit card payments on a daily basis, tracking all payments, scanning of all documents into sequence files, assisting the accounts manager with his functions from time-to-time, organizing of functions for the company, purchasing of stationary and other consumables"  
+            }
+        ],
+        "soft skills": [
+            "Organizational",
+            "Effective communicator",
+            "Friendly (Works effectively with others)",
+            "Efficient",
+            "Consistent",
+            "Always looking for continuous improvement in developing new skills"
+        ],
+        "technical skills": [
+            "Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "Figma",
+            "Vercel",
+            "GitHub"
+        ],
+        "testimonials": [
+            {
+                "author": "Joel Mukanya",
+                "quote": "Nasheeta s a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer."
+            },
+            {
+                "author": "Azhar Jacobs",
+                "quote": "Nasheeta has an infectious personality, Nasheeta's intelligence shines brightly, evident in her insightful conversations and problem-solving skills. She has a remarkable ability to make everyone around her feel valued and appreciated, and her inner beauty radiates in everything she does. Nasheeta is not just a friend; she's a beautiful soul who enriches the lives of those lucky enough to know her."
+            },
+            {
+                "author": "Zakariya Salie",
+                "quote": "Allow me to introduce Nasheeta Jacobs, a dynamic presence in the coding sphere. Nasheeta doesn't just possess coding expertise; she injects her work with abundant creativity and a vibrant energy that's truly captivating. Collaborating with Nasheeta is an absolute delight."
+            },
+            {
+                "author": "Amy Johnson",
+                "quote": "Nasheeta is an individual characterized by a strong work ethic, demonstrating dedication and persistence in all tasks undertaken. She approaches challenges with a practical mindset, focusing on finding effective solutions through her determined efforts. Moreover, Nasheeta is highly interactive, fostering positive relationships and communication with others."
+            },
+            {
+                "author": "Jamin Langeveldt",
+                "quote": "Working alongside Nasheeta has been an absolute pleasure. Her dedication, attention to detail, and unwavering commitment to excellence have consistently impressed me. Nasheeta's ability to navigate challenges with grace and creativity is truly admirable, making her an invaluable asset to any team or project."
+            }
+        ],
+        "projects": [
+            {
+                "title": "JS Calculator",
+                "description": "Developed a calculator",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "year": 2024
+            },
+            {
+                "title": "Portfolio",
+                "description": "Developed a portfolio displaying my information",
+                "technologies": ["HTML", "CSS", "Bootstrap"],
+                "year": 2024
+            },
+            {
+                "title": "To Do List",
+                "description": "Developed a to do list",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "year": 2024
+            },
+            {
+                "title": "JS Ecommerce Website",
+                "description": "Developed a store website with functionality",
+                "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+                "year": 2024
+            }
+        ]
+    }
+}
