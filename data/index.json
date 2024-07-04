@@ -35,38 +35,38 @@
         },
         {
             "name": "Objectives",
-            "text": "In the dynamic realm of web development, my objective is to leverage my technical proficiency and creative acumen to craft innovative digital solutions that exceed client expectations and drive business growth. With a strong foundation in front-end and back-end technologies, including proficiency in languages such as HTML, CSS, JavaScript, and frameworks like React and Node.js, I am committed to delivering robust, user-centric websites and applications. I strive to stay abreast of emerging trends and best practices in web development, ensuring my work remains at the forefront of technological advancements. My goal is to not only meet project objectives but to also contribute to a culture of continuous improvement and excellence within the industry."
+            "text": "As a passionate and dedicated web developer, I aim to create dynamic and responsive web applications that provide seamless user experiences. My goal is to continuously expand my expertise in front-end technologies, with a particular focus on Vue.js, while also embracing new challenges and learning opportunities in full-stack development. By leveraging my strong foundation in HTML, CSS, JavaScript, and Vue.js, along with my experience in state management using Vuex, I strive to develop innovative solutions that not only meet but exceed client expectations. I am committed to maintaining a high standard of quality in my work, ensuring that every project is crafted with precision and creativity."
         }
     ],
     "records": {
         "education": [
             {
                 "certificate": "Matric",
-                "school": "The Oracle Academy",
-                "year": 2019
+                "school": "Rondebosch Boys High School",
+                "year": 2022
             }
         ],
         "work experience": [
             {
-                "company": "RSG Safety Glass Products",
-                "title": "Customer Service",
-                "yearStarted": 2019,
-                "yearEnded": 2020,
+                "company": "IOI Designs",
+                "title": "print and design assisstant",
+                "WorkStarted": 2023,
+                "WorkEnded": 2023,
                 "description": "Liaising with customers on order progress, compiling job cards for manufacturing of jobs, daily analysis of Work-in-progress production scheduling, planning production schedule with factory manager to ensure that lead times are achieved"
             },
             {
-                "company": "Miron Frameless Glass Designs",
-                "title": "Junior Estimator",
-                "yearStarted": 2020,
-                "yearEnded": 2021,
-                "description": "Finding out the client requirements, researching materials, equipment and labour costs, gathering quotes from sub contractors and suppliers, assessing levels of risk on projects, analyzing company data, exchange rates and prices, preparing and submitting quotes for work to be done, compiling and filing project information, compiling daily information for job costing, preparing project progress reports for management"  
+                "company": "Ekhula Fuels",
+                "title": "Bookkeeper & accountant",
+                "yearStarted": 2022,
+                "yearEnded": 2023,
+                "description": "I worked as an accountant and bookkeeper for ekhula fuels for 7 months in 2023. This was between February and August, I was in charge of watching cashflow, writing up monthly statements for the clients as well as monitoring stock. This taught me cash flow, and how businesses need to keep money moving in and out of the company."  
             },
             {
-                "company": "Ticktin Timbers",
-                "title": "Administrator/Receptionist",
-                "yearStarted": 2021,
-                "yearEnded": 2023,
-                "description": "Answering incoming calls and redirecting to the respective person, taking messages where the respective person is unable to take the call, receive payments from customers, capturing of all payment (cash and credit card) on Pastel Accounting, reconciling cash and credit card payments on a daily basis, tracking all payments, scanning of all documents into sequence files, assisting the accounts manager with his functions from time-to-time, organizing of functions for the company, purchasing of stationary and other consumables"  
+                "company": "iStore Canal Walk",
+                "title": "Sales Consultant",
+                "yearStarted": 2023,
+                "yearEnded": 2024,
+                "description": "My job duties were to ensure that the sales floor was clean and in order at all times. We were handed the tasks of doing things like trade-ins where you are required to run diagnostics on devices to check if the devices worked properly before trading in. This is where my love for IT started."  
             }
         ],
         "soft skills": [
@@ -90,29 +90,29 @@
         "testimonials": [
             {
                 "author": "Joel Mukanya",
-                "quote": "Nasheeta s a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer."
+                "quote": "Zakariya's multifaceted interests and vibrant personality enrich team dynamics, transcending mere technical contributions. Working with him is not just about achieving goals but also about building meaningful connections and finding joy in shared experiences."
             },
             {
                 "author": "Azhar Jacobs",
-                "quote": "Nasheeta has an infectious personality, Nasheeta's intelligence shines brightly, evident in her insightful conversations and problem-solving skills. She has a remarkable ability to make everyone around her feel valued and appreciated, and her inner beauty radiates in everything she does. Nasheeta is not just a friend; she's a beautiful soul who enriches the lives of those lucky enough to know her."
+                "quote": "Zakariya Salie is a coding virtuoso, renowned for his unwavering dedication and mastery of coding languages. His consistent delivery of high-quality results makes him an indispensable asset to any coding team.20"
             },
             {
-                "author": "Zakariya Salie",
-                "quote": "Allow me to introduce Nasheeta Jacobs, a dynamic presence in the coding sphere. Nasheeta doesn't just possess coding expertise; she injects her work with abundant creativity and a vibrant energy that's truly captivating. Collaborating with Nasheeta is an absolute delight."
+                "author": "Nasheeta Jacobs",
+                "quote": "Zakariya is the perfect blend of laughter and intelligence. His humor never fails to lighten the mood and make any situation more enjoyable. Beyond his comedic talents, Zakariya's intelligence shines brightly, especially in his coding skills. He effortlessly navigates complex coding challenges and always delivers exceptional results. Being around Zakariya is not only fun but also inspiring, as he constantly impresses with his wit and coding prowess. He's a true gem of a friend."
             },
             {
                 "author": "Amy Johnson",
-                "quote": "Nasheeta is an individual characterized by a strong work ethic, demonstrating dedication and persistence in all tasks undertaken. She approaches challenges with a practical mindset, focusing on finding effective solutions through her determined efforts. Moreover, Nasheeta is highly interactive, fostering positive relationships and communication with others."
+                "quote": "Zakariya's passion for gaming, cars, and sports infuses team environments with vitality and camaraderie. His infectious enthusiasm fosters a positive atmosphere that fuels collaboration and creativity among colleagues."
             },
             {
-                "author": "Jamin Langeveldt",
-                "quote": "Working alongside Nasheeta has been an absolute pleasure. Her dedication, attention to detail, and unwavering commitment to excellence have consistently impressed me. Nasheeta's ability to navigate challenges with grace and creativity is truly admirable, making her an invaluable asset to any team or project."
+                "author": "Mohammad Mohammod",
+                "quote": "Zakariya Salie shines as a versatile figure in web development and team dynamics. His intelligence drives innovative solutions and project success, while his humor adds a delightful touch to interactions. Renowned for his work ethic and dedication, Zakariya inspires colleagues with his helpfulness and expertise. In summary, he is an invaluable asset, embodying talent, humor, and determination."
             }
         ],
         "projects": [
             {
-                "title": "JS Calculator",
-                "description": "Developed a calculator",
+                "title": "My JS Calculator",
+                "description": "Developed a fully functional calculator using javascript",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "year": 2024
             },
