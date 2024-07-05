@@ -1,119 +1,119 @@
-{
-    "education": {
-      "title": "Education",
-      "schools": [
-        {
-          "name": "Rondebosch Boys High School",
-          "subjects": [
-            "Mathematics",
-            "English",
-            "Afrikaans",
-            "Physics",
-            "Engineering and Graphic Designing",
-            "Life Sciences",
-            "Life Orientation"
-          ]
-        }
-      ]
-    },
-    "workExperience": {
-      "title": "Work Experience",
-      "jobs": [
-        {
-          "company": "iStore Canal Walk",
-          "position": "iStore Sales Consultant",
-          "description": "My job duties were to ensure that the sales floor was clean and in order at all times. We were handed the tasks of doing things like trade-ins where you are required to run diagnostics on devices to check if the devices worked properly before trading in. This is where my love for IT started."
-        },
-        {
-          "company": "Ekhula Fuels",
-          "position": "Bookkeeper & accountant",
-          "description": "I worked as an accountant and bookkeeper for Ekhula Fuels for 7 months in 2023. This was between February and August. I was in charge of watching cashflow, writing up monthly statements for the clients as well as monitoring stock. This taught me cash flow, and how businesses need to keep money moving in and out of the company."
-        }
-      ]
-    },
-    "projects": [
-        {
-            "title": "JS-OEMP",
-            "image": "https://zakariyasalie.github.io/allimages/images/JSECOM.png",
-            "description": "My Javascript End of Module Project.",
-            "url": "https://zakariyasalie.github.io/JS-e-com/"
-        },
-        {
-          "title": "HTML, CSS & Bootstrap Portfolio",
-          "image": "https://zakariyasalie.github.io/allimages/images/HTMLPORTFOLIO.png",
-          "description": "My first ever coding portfolio.",
-          "url": "https://zakariyasalie.github.io/Zakariya-s-Portfolio/"
-        },
-        {
-          "title": "My Calculator",
-          "image": "https://zakariyasalie.github.io/allimages/images/calculator.png",
-          "description": "I made this calculator.",
-          "url": "https://zakariyasalie.github.io/Calculator/"
-        },
-        {
-          "title": "Keyboard Example",
-          "image": "https://zakariyasalie.github.io/allimages/images/Keyboard.PNG",
-          "description": "This is my Keyboard.",
-          "url": "https://zakariyasalie.github.io/Keyboard/"
-        },
-        {
-          "title": "BMI Calculator",
-          "image": "https://zakariyasalie.github.io/allimages/images/BMI Calculator.png",
-          "description": "This is the Hulu I made.",
-          "url": "https://zakariyasalie.github.io/BMI-Calculator/"
-        },
-        {
-          "title": "ID Number ",
-          "image": "https://zakariyasalie.github.io/allimages/images/ID checker.png",
-          "description": "Check's for birthday as well as gender",
-          "url": "https://zakariyasalie.github.io/ID-number/"
-        }
-    ],
-    "testimonials": [
-      {
-        "name": "Nash",
-        "image": "https://zakariyasalie.github.io/allimages/images/20240422_100351.jpg",
-        "text": "Zakariya is a perfect blend of laughter and intelligence. His humor brightens any moment, while his coding skills effortlessly tackle complex challenges, delivering exceptional results. Being around Zakariya is both fun and inspiring—he's a true gem of a friend."
-      },
-      {
-        "name": "Mo",
-        "image": "https://zakariyasalie.github.io/allimages/images/20240422_120921.jpg",
-        "text": "Zakariya Salie excels in web development and team dynamics, driving innovative solutions with intelligence and project success. His humor adds a delightful touch to interactions, inspiring colleagues with his work ethic and expertise—an invaluable asset embodying talent, humor, and determination."
-      },
-      {
-        "name": "Azhar",
-        "image": "https://zakariyasalie.github.io/allimages/images/20240422_092430.jpg",
-        "text": "Zakariya Salie is a coding virtuoso, renowned for his unwavering dedication and mastery of coding languages. His consistent delivery of high-quality results makes him an indispensable asset to any coding team."
-      },
-      {
-        "name": "Amy",
-        "image": "https://zakariyasalie.github.io/allimages/images/20240422_091901.jpg",
-        "text": "Zakariya's passion for gaming, cars, and sports infuses team environments with vitality and camaraderie. His infectious enthusiasm fosters a positive atmosphere that fuels collaboration and creativity among colleagues."
-      },
-      {
-        "name": "Caleb Okkers",
-        "image": "https://zakariyasalie.github.io/allimages/images/a5fe4740-d85c-4472-b87b-578fcb1d13d2.jpg",
-        "text": "Zakariya's multifaceted interests and vibrant personality enrich team dynamics, transcending mere technical contributions. Working with him is not just about achieving goals but also about building meaningful connections and finding joy in shared experiences."
-      },
-      {
-        "name": "Asheeka Samuels",
-        "image": "https://zakariyasalie.github.io/allimages/images/ac26f269-8540-4e40-9975-224bc866dda2.jpg",
-        "text": "I've known Zakariya Salie for years, witnessing his exceptional talent and passion for coding. His innovative problem-solving skills create impactful solutions, driven by his dedication to learning and forward-thinking mindset. Zakariya is poised to leave a lasting mark on the future of technology."
-      }
-    ],
-        "contact": {
-          "location": "Ottery, Cape Town, South Africa",
-          "phone": "+27(65) 813 1021",
-          "email": "zakariya.salie07@gmail.com",
-          "social": [
+    {
+        "education": {
+        "title": "Education",
+        "schools": [
             {
-              "name": "GitHub",
-              "url": "https://github.com/yourusername"
+            "name": "Rondebosch Boys High School",
+            "subjects": [
+                "Mathematics",
+                "English",
+                "Afrikaans",
+                "Physics",
+                "Engineering and Graphic Designing",
+                "Life Sciences",
+                "Life Orientation"
+            ]
+            }
+        ]
+        },
+        "workExperience": {
+        "title": "Work Experience",
+        "jobs": [
+            {
+            "company": "iStore Canal Walk",
+            "position": "iStore Sales Consultant",
+            "description": "My job duties were to ensure that the sales floor was clean and in order at all times. We were handed the tasks of doing things like trade-ins where you are required to run diagnostics on devices to check if the devices worked properly before trading in. This is where my love for IT started."
             },
             {
-              "name": "LinkedIn",
-              "url": "https://linkedin.com/in/yourusername"
+            "company": "Ekhula Fuels",
+            "position": "Bookkeeper & accountant",
+            "description": "I worked as an accountant and bookkeeper for Ekhula Fuels for 7 months in 2023. This was between February and August. I was in charge of watching cashflow, writing up monthly statements for the clients as well as monitoring stock. This taught me cash flow, and how businesses need to keep money moving in and out of the company."
             }
-          ]
+        ]
+        },
+        "projects": [
+            {
+                "title": "JS-OEMP",
+                "image": "https://zakariyasalie.github.io/allimages/images/JSECOM.png",
+                "description": "My Javascript End of Module Project.",
+                "url": "https://zakariyasalie.github.io/JS-e-com/"
+            },
+            {
+            "title": "HTML, CSS & Bootstrap Portfolio",
+            "image": "https://zakariyasalie.github.io/allimages/images/HTMLPORTFOLIO.png",
+            "description": "My first ever coding portfolio.",
+            "url": "https://zakariyasalie.github.io/Zakariya-s-Portfolio/"
+            },
+            {
+            "title": "My Calculator",
+            "image": "https://zakariyasalie.github.io/allimages/images/calculator.png",
+            "description": "I made this calculator.",
+            "url": "https://zakariyasalie.github.io/Calculator/"
+            },
+            {
+            "title": "Grid Example",
+            "image": "https://zakariyasalie.github.io/allimages/images/gridexample.png",
+            "description": "This is my Keyboard.",
+            "url": "https://zakariyasalie.github.io/Grid/"
+            },
+            {
+            "title": "BMI Calculator",
+            "image": "https://zakariyasalie.github.io/allimages/images/BMICalculator.png",
+            "description": "This is the Hulu I made.",
+            "url": "https://zakariyasalie.github.io/BMI-Calculator/"
+            },
+            {
+            "title": "ID Number ",
+            "image": "https://zakariyasalie.github.io/allimages/images/IDchecker.png",
+            "description": "Check's for birthday as well as gender",
+            "url": "https://zakariyasalie.github.io/ID-number/"
+            }
+        ],
+        "testimonials": [
+        {
+            "name": "Nash",
+            "image": "https://zakariyasalie.github.io/allimages/images/20240422_100351.jpg",
+            "text": "Zakariya is a perfect blend of laughter and intelligence. His humor brightens any moment, while his coding skills effortlessly tackle complex challenges, delivering exceptional results. Being around Zakariya is both fun and inspiring—he's a true gem of a friend."
+        },
+        {
+            "name": "Mo",
+            "image": "https://zakariyasalie.github.io/allimages/images/20240422_120921.jpg",
+            "text": "Zakariya Salie excels in web development and team dynamics, driving innovative solutions with intelligence and project success. His humor adds a delightful touch to interactions, inspiring colleagues with his work ethic and expertise—an invaluable asset embodying talent, humor, and determination."
+        },
+        {
+            "name": "Azhar",
+            "image": "https://zakariyasalie.github.io/allimages/images/20240422_092430.jpg",
+            "text": "Zakariya Salie is a coding virtuoso, renowned for his unwavering dedication and mastery of coding languages. His consistent delivery of high-quality results makes him an indispensable asset to any coding team."
+        },
+        {
+            "name": "Amy",
+            "image": "https://zakariyasalie.github.io/allimages/images/20240422_091901.jpg",
+            "text": "Zakariya's passion for gaming, cars, and sports infuses team environments with vitality and camaraderie. His infectious enthusiasm fosters a positive atmosphere that fuels collaboration and creativity among colleagues."
+        },
+        {
+            "name": "Caleb Okkers",
+            "image": "https://zakariyasalie.github.io/allimages/images/a5fe4740-d85c-4472-b87b-578fcb1d13d2.jpg",
+            "text": "Zakariya's multifaceted interests and vibrant personality enrich team dynamics, transcending mere technical contributions. Working with him is not just about achieving goals but also about building meaningful connections and finding joy in shared experiences."
+        },
+        {
+            "name": "Asheeka Samuels",
+            "image": "https://zakariyasalie.github.io/allimages/images/ac26f269-8540-4e40-9975-224bc866dda2.jpg",
+            "text": "I've known Zakariya Salie for years, witnessing his exceptional talent and passion for coding. His innovative problem-solving skills create impactful solutions, driven by his dedication to learning and forward-thinking mindset. Zakariya is poised to leave a lasting mark on the future of technology."
         }
-}  
+        ],
+            "contact": {
+            "location": "Ottery, Cape Town, South Africa",
+            "phone": "+27(65) 813 1021",
+            "email": "zakariya.salie07@gmail.com",
+            "social": [
+                {
+                "name": "GitHub",
+                "url": "https://github.com/yourusername"
+                },
+                {
+                "name": "LinkedIn",
+                "url": "https://linkedin.com/in/yourusername"
+                }
+            ]
+            }
+    }  
