@@ -32,42 +32,42 @@
       ]
     },
     "projects": [
-      {
-        "title": "Grid Example",
-        "image": "https://zakariyasalie.github.io/allimages/images/GridExample.PNG",
-        "description": "2 by 2 grid example.",
-        "url": "https://zakariyasalie.github.io/Grid/"
-      },
-      {
-        "title": "My Calculator",
-        "image": "https://zakariyasalie.github.io/allimages/images/Calculator.PNG",
-        "description": "I made this calculator.",
-        "url": "https://zakariyasalie.github.io/Calculator2/"
-      },
-      {
-        "title": "Keyboard Example",
-        "image": "https://zakariyasalie.github.io/allimages/images/Keyboard.PNG",
-        "description": "This is my Keyboard.",
-        "url": "https://zakariyasalie.github.io/Keyboard/"
-      },
-      {
-        "title": "Hulu",
-        "image": "https://zakariyasalie.github.io/allimages/images/hulu.png",
-        "description": "This is the Hulu I made.",
-        "url": "https://hulu-seven-mu.vercel.app/"
-      },
-      {
-        "title": "FlexBox",
-        "image": "https://zakariyasalie.github.io/allimages/images/Flexbox.png",
-        "description": "My flexbox example.",
-        "url": "https://zakariyasalie.github.io/Flexbox/"
-      },
-      {
-        "title": "JS-OEMP",
-        "image": "https://zakariyasalie.github.io/allimages/images/Flexbox.png",
-        "description": "My Javascript End of Module Project",
-        "url": "https://zakariyasalie.github.io/JS-e-com/"
-      }
+        {
+            "title": "JS-OEMP",
+            "image": "https://zakariyasalie.github.io/allimages/images/JSECOM.png",
+            "description": "My Javascript End of Module Project.",
+            "url": "https://zakariyasalie.github.io/JS-e-com/"
+        },
+        {
+          "title": "HTML, CSS & Bootstrap Portfolio",
+          "image": "https://zakariyasalie.github.io/allimages/images/HTMLPORTFOLIO.png",
+          "description": "My first ever coding portfolio.",
+          "url": "https://zakariyasalie.github.io/Zakariya-s-Portfolio/"
+        },
+        {
+          "title": "My Calculator",
+          "image": "https://zakariyasalie.github.io/allimages/images/calculator.png",
+          "description": "I made this calculator.",
+          "url": "https://zakariyasalie.github.io/Calculator/"
+        },
+        {
+          "title": "Keyboard Example",
+          "image": "https://zakariyasalie.github.io/allimages/images/Keyboard.PNG",
+          "description": "This is my Keyboard.",
+          "url": "https://zakariyasalie.github.io/Keyboard/"
+        },
+        {
+          "title": "BMI Calculator",
+          "image": "https://zakariyasalie.github.io/allimages/images/BMI Calculator.png",
+          "description": "This is the Hulu I made.",
+          "url": "https://zakariyasalie.github.io/BMI-Calculator/"
+        },
+        {
+          "title": "ID Number ",
+          "image": "https://zakariyasalie.github.io/allimages/images/ID checker.png",
+          "description": "Check's for birthday as well as gender",
+          "url": "https://zakariyasalie.github.io/ID-number/"
+        }
     ],
     "testimonials": [
       {
