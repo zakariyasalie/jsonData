@@ -27,8 +27,41 @@
         {
           "company": "Ekhula Fuels",
           "position": "Bookkeeper & accountant",
-          "description": "I worked as an accountant and bookkeeper for ekhula fuels for 7 months in 2023. This was between February and August, I was in charge of watching cashflow, writing up monthly statements for the clients as well as monitoring stock. This taught me cash flow, and how businesses need to keep money moving in and out of the company."
+          "description": "I worked as an accountant and bookkeeper for Ekhula Fuels for 7 months in 2023. This was between February and August. I was in charge of watching cashflow, writing up monthly statements for the clients as well as monitoring stock. This taught me cash flow, and how businesses need to keep money moving in and out of the company."
         }
       ]
-    }
+    },
+    "projects": [
+      {
+        "title": "Grid Example",
+        "image": "https://zakariyasalie.github.io/allimages/images/GridExample.PNG",
+        "description": "2 by 2 grid example.",
+        "url": "https://zakariyasalie.github.io/Grid/"
+      },
+      {
+        "title": "My Calculator",
+        "image": "https://zakariyasalie.github.io/allimages/images/Calculator.PNG",
+        "description": "I made this calculator.",
+        "url": "https://zakariyasalie.github.io/Calculator2/"
+      },
+      {
+        "title": "Keyboard Example",
+        "image": "https://zakariyasalie.github.io/allimages/images/Keyboard.PNG",
+        "description": "This is my Keyboard.",
+        "url": "https://zakariyasalie.github.io/Keyboard/"
+      },
+      {
+        "title": "Hulu",
+        "image": "https://zakariyasalie.github.io/allimages/images/hulu.png",
+        "description": "This is the Hulu I made.",
+        "url": "https://hulu-seven-mu.vercel.app/"
+      },
+      {
+        "title": "FlexBox",
+        "image": "https://zakariyasalie.github.io/allimages/images/Flexbox.png",
+        "description": "My flexbox example.",
+        "url": "https://zakariyasalie.github.io/Flexbox/"
+      }
+    ]
   }
+  
