@@ -66,27 +66,27 @@
     "testimonials": [
       {
         "name": "Nash",
-        "image": "./images/auntysheeta.jpg",
+        "image": "https://zakariyasalie.github.io/allimages/images/20240422_100351.jpg",
         "text": "Zakariya is the perfect blend of laughter and intelligence. His humor never fails to lighten the mood and make any situation more enjoyable. Beyond his comedic talents, Zakariya's intelligence shines brightly, especially in his coding skills. He effortlessly navigates complex coding challenges and always delivers exceptional results. Being around Zakariya is not only fun but also inspiring, as he constantly impresses with his wit and coding prowess. He's a true gem of a friend."
       },
       {
         "name": "Mo",
-        "image": "./images/terrorist.jpg",
+        "image": "https://zakariyasalie.github.io/allimages/images/20240422_120921.jpg",
         "text": "Zakariya Salie shines as a versatile figure in web development and team dynamics. His intelligence drives innovative solutions and project success, while his humor adds a delightful touch to interactions. Renowned for his work ethic and dedication, Zakariya inspires colleagues with his helpfulness and expertise. In summary, he is an invaluable asset, embodying talent, humor, and determination."
       },
       {
         "name": "Azhar",
-        "image": "./images/n!gg3rs.jpg",
+        "image": "https://zakariyasalie.github.io/allimages/images/20240422_092430.jpg",
         "text": "Zakariya Salie is a coding virtuoso, renowned for his unwavering dedication and mastery of coding languages. His consistent delivery of high-quality results makes him an indispensable asset to any coding team."
       },
       {
         "name": "Amy",
-        "image": "./images/amy.jpg",
+        "image": "https://zakariyasalie.github.io/allimages/images/20240422_091901.jpg",
         "text": "Zakariya's passion for gaming, cars, and sports infuses team environments with vitality and camaraderie. His infectious enthusiasm fosters a positive atmosphere that fuels collaboration and creativity among colleagues."
       },
       {
         "name": "Joel",
-        "image": "./images/joel2.jpg",
+        "image": "https://zakariyasalie.github.io/allimages/images/joel2.jpg",
         "text": "Zakariya's multifaceted interests and vibrant personality enrich team dynamics, transcending mere technical contributions. Working with him is not just about achieving goals but also about building meaningful connections and finding joy in shared experiences."
       }
     ]
