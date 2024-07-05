@@ -66,7 +66,7 @@
         "title": "JS-OEMP",
         "image": "https://zakariyasalie.github.io/allimages/images/Flexbox.png",
         "description": "My Javascript End of Module Project",
-        "url": "https://zakariyasalie.github.io/Flexbox/"
+        "url": "https://zakariyasalie.github.io/JS-e-com/"
       }
     ],
     "testimonials": [
@@ -95,6 +95,20 @@
         "image": "https://zakariyasalie.github.io/allimages/images/joel2.jpg",
         "text": "Zakariya's multifaceted interests and vibrant personality enrich team dynamics, transcending mere technical contributions. Working with him is not just about achieving goals but also about building meaningful connections and finding joy in shared experiences."
       }
-    ]
-  }
-  
+    ],
+        "contact": {
+          "location": "Ottery, Cape Town, South Africa",
+          "phone": "+27(65) 813 1021",
+          "email": "zakariya.salie07@gmail.com",
+          "social": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/yourusername"
+            },
+            {
+              "name": "LinkedIn",
+              "url": "https://linkedin.com/in/yourusername"
+            }
+          ]
+        }
+}  
