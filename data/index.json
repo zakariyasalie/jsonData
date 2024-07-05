@@ -1,139 +1,67 @@
 {
-    "jobTitles": [
-        "Full Stack Web Developer"
-    ],
-    "personalInfo": {
-        "firstName": "Zakariya",
-        "lastName": "Salie",
-        "age": 24,
-        "email": "zakariya.salie07@gmail.com",
-        "mobile": "(+27) 65 813 1021",
-        "social media": {
-            "facebook": "https://www.facebook.com/",
-            "instagram": "https://www.instagram.com/",
-            "github": "https://github.com/",
-            "linkedin": "https://www.linkedin.com"
-        },
-        "occupation": "intern",
-        "interests": [
-            "reading",
-            "gaming",
-            "hiking"
-        ],
-        "location": {
-            "area": "Ottery, Cape Town",
-            "country": "South Africa"
-        },
-        "languages": [
-            "English"
-        ]
-    },
-    "aboutMe": [
+    "education": {
+      "title": "Education",
+      "schools": [
         {
-            "name": "About",
-            "text": "As a passionate enthusiast of cars and games, a sports aficionado, and a dedicated computer enthusiast, I find joy in blending my diverse interests into captivating web designs. With a fervent love for creation, I channel my energy into crafting immersive digital experiences that seamlessly integrate my passions. From sleek automotive-inspired layouts to dynamic gaming interfaces, each project reflects my commitment to innovation and attention to detail. Explore my portfolio to witness the fusion of my interests and my dedication to crafting engaging online environments."
-        },
-        {
-            "name": "Objectives",
-            "text": "As a passionate and dedicated web developer, I aim to create dynamic and responsive web applications that provide seamless user experiences. My goal is to continuously expand my expertise in front-end technologies, with a particular focus on Vue.js, while also embracing new challenges and learning opportunities in full-stack development. By leveraging my strong foundation in HTML, CSS, JavaScript, and Vue.js, along with my experience in state management using Vuex, I strive to develop innovative solutions that not only meet but exceed client expectations. I am committed to maintaining a high standard of quality in my work, ensuring that every project is crafted with precision and creativity."
+          "name": "Rondebosch Boys High School",
+          "subjects": [
+            "Mathematics",
+            "English",
+            "Afrikaans",
+            "Physics",
+            "Engineering and Graphic Designing",
+            "Life Sciences",
+            "Life Orientation"
+          ]
         }
-    ],
-    "records": {
-        "education": [
-            {
-                "certificate": "Matric",
-                "school": "Rondebosch Boys High School",
-                "year": 2022
-            }
-        ],
-        "work experience": [
-            {
-                "company": "IOI Designs",
-                "title": "print and design assisstant",
-                "WorkStarted": 2023,
-                "WorkEnded": 2023,
-                "description": "Liaising with customers on order progress, compiling job cards for manufacturing of jobs, daily analysis of Work-in-progress production scheduling, planning production schedule with factory manager to ensure that lead times are achieved"
-            },
-            {
-                "company": "Ekhula Fuels",
-                "title": "Bookkeeper & accountant",
-                "yearStarted": 2022,
-                "yearEnded": 2023,
-                "description": "I worked as an accountant and bookkeeper for ekhula fuels for 7 months in 2023. This was between February and August, I was in charge of watching cashflow, writing up monthly statements for the clients as well as monitoring stock. This taught me cash flow, and how businesses need to keep money moving in and out of the company."  
-            },
-            {
-                "company": "iStore Canal Walk",
-                "title": "Sales Consultant",
-                "yearStarted": 2023,
-                "yearEnded": 2024,
-                "description": "My job duties were to ensure that the sales floor was clean and in order at all times. We were handed the tasks of doing things like trade-ins where you are required to run diagnostics on devices to check if the devices worked properly before trading in. This is where my love for IT started."  
-            }
-        ],
-        "soft skills": [
-            "Organizational",
-            "Effective communicator",
-            "Friendly (Works effectively with others)",
-            "Efficient",
-            "Consistent",
-            "Always looking for continuous improvement in developing new skills"
-        ],
-        "technical skills": [
-            "Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Bootstrap",
-            "Figma",
-            "Vercel",
-            "GitHub"
-        ],
-        "testimonials": [
-            {
-                "author": "Joel Mukanya",
-                "quote": "Zakariya's multifaceted interests and vibrant personality enrich team dynamics, transcending mere technical contributions. Working with him is not just about achieving goals but also about building meaningful connections and finding joy in shared experiences."
-            },
-            {
-                "author": "Azhar Jacobs",
-                "quote": "Zakariya Salie is a coding virtuoso, renowned for his unwavering dedication and mastery of coding languages. His consistent delivery of high-quality results makes him an indispensable asset to any coding team.20"
-            },
-            {
-                "author": "Nasheeta Jacobs",
-                "quote": "Zakariya is the perfect blend of laughter and intelligence. His humor never fails to lighten the mood and make any situation more enjoyable. Beyond his comedic talents, Zakariya's intelligence shines brightly, especially in his coding skills. He effortlessly navigates complex coding challenges and always delivers exceptional results. Being around Zakariya is not only fun but also inspiring, as he constantly impresses with his wit and coding prowess. He's a true gem of a friend."
-            },
-            {
-                "author": "Amy Johnson",
-                "quote": "Zakariya's passion for gaming, cars, and sports infuses team environments with vitality and camaraderie. His infectious enthusiasm fosters a positive atmosphere that fuels collaboration and creativity among colleagues."
-            },
-            {
-                "author": "Mohammad Mohammod",
-                "quote": "Zakariya Salie shines as a versatile figure in web development and team dynamics. His intelligence drives innovative solutions and project success, while his humor adds a delightful touch to interactions. Renowned for his work ethic and dedication, Zakariya inspires colleagues with his helpfulness and expertise. In summary, he is an invaluable asset, embodying talent, humor, and determination."
-            }
-        ],
-        "projects": [
-            {
-                "title": "My JS Calculator",
-                "description": "Developed a fully functional calculator using javascript",
-                "technologies": ["HTML", "CSS", "JavaScript"],
-                "year": 2024
-            },
-            {
-                "title": "Portfolio",
-                "description": "Developed a portfolio displaying my information",
-                "technologies": ["HTML", "CSS", "Bootstrap"],
-                "year": 2024
-            },
-            {
-                "title": "To Do List",
-                "description": "Developed a to do list",
-                "technologies": ["HTML", "CSS", "JavaScript"],
-                "year": 2024
-            },
-            {
-                "title": "JS Ecommerce Website",
-                "description": "Developed a store website with functionality",
-                "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
-                "year": 2024
-            }
-        ]
-    }
-}
+      ]
+    },
+    "workExperience": {
+      "title": "Work Experience",
+      "jobs": [
+        {
+          "company": "iStore Canal Walk",
+          "position": "iStore Sales Consultant",
+          "description": "My job duties were to ensure that the sales floor was clean and in order at all times. We were handed the tasks of doing things like trade-ins where you are required to run diagnostics on devices to check if the devices worked properly before trading in. This is where my love for IT started."
+        },
+        {
+          "company": "Ekhula Fuels",
+          "position": "Bookkeeper & accountant",
+          "description": "I worked as an accountant and bookkeeper for Ekhula Fuels for 7 months in 2023. This was between February and August. I was in charge of watching cashflow, writing up monthly statements for the clients as well as monitoring stock. This taught me cash flow, and how businesses need to keep money moving in and out of the company."
+        }
+      ]
+    },
+    "projects": [
+      {
+        "title": "Grid Example",
+        "image": "https://zakariyasalie.github.io/allimages/images/GridExample.PNG",
+        "description": "2 by 2 grid example.",
+        "url": "https://zakariyasalie.github.io/Grid/"
+      },
+      {
+        "title": "My Calculator",
+        "image": "https://zakariyasalie.github.io/allimages/images/Calculator.PNG",
+        "description": "I made this calculator.",
+        "url": "https://zakariyasalie.github.io/Calculator2/"
+      },
+      {
+        "title": "Keyboard Example",
+        "image": "https://zakariyasalie.github.io/allimages/images/Keyboard.PNG",
+        "description": "This is my Keyboard.",
+        "url": "https://zakariyasalie.github.io/Keyboard/"
+      },
+      {
+        "title": "Hulu",
+        "image": "https://zakariyasalie.github.io/allimages/images/hulu.png",
+        "description": "This is the Hulu I made.",
+        "url": "https://hulu-seven-mu.vercel.app/"
+      },
+      {
+        "title": "FlexBox",
+        "image": "https://zakariyasalie.github.io/allimages/images/Flexbox.png",
+        "description": "My flexbox example.",
+        "url": "https://zakariyasalie.github.io/Flexbox/"
+      }
+    ]
+  }
+  
