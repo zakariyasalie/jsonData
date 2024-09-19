@@ -33,40 +33,47 @@
         },
         "projects": [
             {
-                "title": "JS-OEMP",
+                "title": "Javascript E-com",
                 "image": "https://zakariyasalie.github.io/allimages/images/JSECOM.png",
                 "description": "My Javascript End of Module Project.",
-                "url": "https://zakariyasalie.github.io/JS-e-com/"
+                "url": "https://js-e-com.vercel.app/",
+                "github": "https://github.com/zakariyasalie/JS-e-com.git"
             },
             {
             "title": "HTML, CSS & Bootstrap Portfolio",
             "image": "https://zakariyasalie.github.io/allimages/images/HTMLPORTFOLIO.png",
             "description": "My first ever coding portfolio.",
-            "url": "https://zakariyasalie.github.io/Zakariya-s-Portfolio/"
+            "url": "https://zakariya-s-portfolio.vercel.app/",
+            "github": "https://github.com/zakariyasalie/Zakariya-s-Portfolio.git"
             },
             {
-            "title": "My Calculator",
+            "title": "Vue Portfolio",
             "image": "https://zakariyasalie.github.io/allimages/images/calculator.png",
-            "description": "I made this calculator.",
-            "url": "https://zakariyasalie.github.io/Calculator/"
+            "description": "This is my Vue.js Portfolio.",
+            "url": "https://vueeomp-bd7aa.web.app/",
+            "github": "https://github.com/zakariyasalie/VUE.EOMP.git"
+            
             },
             {
-            "title": "Grid Example",
+            "title": "Node.js E-com",
             "image": "https://zakariyasalie.github.io/allimages/images/gridexample.png",
-            "description": "This is my Keyboard.",
-            "url": "https://zakariyasalie.github.io/Grid/"
+            "description": "This is my Node.js Project.",
+            "url": "https://selfdefenceecom.web.app",
+            "github": "https://github.com/Mquanaazi/selfDefEcom.git"
             },
             {
             "title": "BMI Calculator",
             "image": "https://zakariyasalie.github.io/allimages/images/BMICalculator.png",
             "description": "BMI calculator made by yours truly.",
-            "url": "https://zakariyasalie.github.io/BMI-Calculator/"
+            "url": "https://bmi-calculator-chi-puce.vercel.app/",
+            "github": "https://github.com/zakariyasalie/BMI-Calculator.git"
             },
             {
-            "title": "ID Number ",
+            "title": "ID Checker ",
             "image": "https://zakariyasalie.github.io/allimages/images/IDchecker.png",
             "description": "Check's for birthday as well as gender",
-            "url": "https://zakariyasalie.github.io/ID-number/"
+            "url": "https://id-number-zakariyas-projects-07a9617f.vercel.app/",
+            "github": "https://github.com/zakariyasalie/ID-number.git"
             }
         ],
         "testimonials": [
